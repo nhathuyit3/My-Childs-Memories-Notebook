@@ -1,0 +1,110 @@
+{
+  "childInfo": {
+    "name": "Bé Mầm",
+    "fullName": "Nguyễn Hoàng Minh",
+    "dob": "2026-08-03"
+  },
+  "milestones": [
+    {
+      "id": "stage-1",
+      "stageTitle": "Hành Trình Kỳ Diệu",
+      "subtitle": "Giai đoạn thiêng liêng khi con bắt đầu đến với ba mẹ",
+      "items": [
+        {
+          "id": "m1",
+          "date": "15/12/2025",
+          "title": "Vạch kẻ thứ 2 xuất hiện",
+          "message": "Ngày ba mẹ biết tin con xuất hiện, thế giới như ngập tràn ánh nắng.",
+          "photoUrl": "images/image1.png",
+          "letterToChild": "Con yêu, đây là hình ảnh đầu tiên của con – một chấm nhỏ xíu nhưng mang lại hạnh phúc vô tận."
+        },
+        {
+          "id": "m2",
+          "date": "20/02/2026",
+          "title": "Lần đầu nghe nhịp tim con",
+          "message": "Tiếng đập rộn ràng như giai điệu đẹp nhất mà ba mẹ từng được nghe.",
+          "photoUrl": "images/image2.png",
+          "letterToChild": "Mỗi lần đi siêu âm, thấy con lớn lên một chút là ba mẹ lại có thêm niềm tin và sự háo hức."
+        },
+        {
+          "id": "m3",
+          "date": "10/05/2026",
+          "title": "Cú đạp đầu tiên của con",
+          "message": "Mẹ cảm nhận được sự hiện diện rõ ràng và tràn đầy sức sống của con.",
+          "photoUrl": "images/image3.png",
+          "letterToChild": "Cú đạp nhẹ nhàng ấy làm mẹ mỉm cười suốt cả ngày. Con đang chuẩn bị chào đời rồi đúng không?"
+        }
+      ]
+    },
+    {
+      "id": "stage-2",
+      "stageTitle": "Chào Đời & Những Bước Chân Đầu Tiên",
+      "subtitle": "Khoảnh khắc con cất tiếng khóc chào đời và khám phá thế giới",
+      "items": [
+        {
+          "id": "m4",
+          "date": "03/08/2026",
+          "title": "Chào mừng con đến với thế giới!",
+          "message": "Tiếng khóc chào đời của con là âm thanh tuyệt vời nhất ba mẹ từng nghe.",
+          "photoUrl": "images/image4.png",
+          "letterToChild": "Chúc mừng con cất tiếng khóc chào đời an lành. Cảm ơn con đã đến và làm trọn vẹn gia đình mình."
+        },
+        {
+          "id": "m5",
+          "date": "03/09/2026",
+          "title": "Lễ đầy tháng ấm áp",
+          "message": "Cả gia đình quây quần chúc cho con luôn bình an và mau ăn chóng lớn.",
+          "photoUrl": "images/image5.png",
+          "letterToChild": "Thiên thần nhỏ tròn 1 tháng tuổi, nụ cười của con làm tan chảy mọi mệt mỏi của ba mẹ."
+        },
+        {
+          "id": "m6",
+          "date": "15/11/2026",
+          "title": "Nụ cười trọn vẹn đầu tiên",
+          "message": "Con đã biết nhận ra giọng nói của ba mẹ và nở nụ cười thật tươi.",
+          "photoUrl": "images/image6.png",
+          "letterToChild": "Hãy luôn giữ nụ cười hồn nhiên này con nhé, thế giới ngoài kia luôn chào đón con."
+        }
+      ]
+    },
+    {
+      "id": "stage-3",
+      "stageTitle": "Khi con bắt đầu bước vào cấp 1",
+      "subtitle": "Khoảnh khắc con cất tiếng khóc chào đời và khám phá thế giới",
+      "items": [
+        {
+          "id": "m4",
+          "date": "03/08/2026",
+          "title": "Chào mừng con đến với thế giới!",
+          "message": "Tiếng khóc chào đời của con là âm thanh tuyệt vời nhất ba mẹ từng nghe.",
+          "photoUrl": "images/image4.png",
+          "letterToChild": "Chúc mừng con cất tiếng khóc chào đời an lành. Cảm ơn con đã đến và làm trọn vẹn gia đình mình."
+        },
+        {
+          "id": "m5",
+          "date": "03/09/2026",
+          "title": "Lễ đầy tháng ấm áp",
+          "message": "Cả gia đình quây quần chúc cho con luôn bình an và mau ăn chóng lớn.",
+          "photoUrl": "images/image5.png",
+          "letterToChild": "Thiên thần nhỏ tròn 1 tháng tuổi, nụ cười của con làm tan chảy mọi mệt mỏi của ba mẹ."
+        },
+        {
+          "id": "m6",
+          "date": "15/11/2026",
+          "title": "Nụ cười trọn vẹn đầu tiên",
+          "message": "Con đã biết nhận ra giọng nói của ba mẹ và nở nụ cười thật tươi.",
+          "photoUrl": "images/image6.png",
+          "letterToChild": "Hãy luôn giữ nụ cười hồn nhiên này con nhé, thế giới ngoài kia luôn chào đón con."
+        },
+        {
+          "id": "m6",
+          "date": "15/11/2026",
+          "title": "Nụ cười trọn vẹn đầu tiên",
+          "message": "Con đã biết nhận ra giọng nói của ba mẹ và nở nụ cười thật tươi.",
+          "photoUrl": "images/image6.png",
+          "letterToChild": "Hãy luôn giữ nụ cười hồn nhiên này con nhé, thế giới ngoài kia luôn chào đón con."
+        }
+      ]
+    }
+  ]
+}
